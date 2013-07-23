@@ -1,0 +1,4 @@
+notworthit
+==========
+
+Bukkit Plugin: NotWorthIt
