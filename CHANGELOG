@@ -1,9 +1,0 @@
-v1.1
-
-Added configuration file, which doesn't have much use
-Added command /nwimotd, which stands for NotWorthIt Message of the Day: This is configurable in the config file
-When player dies, their health changes quicker
-
-v1.0
-
-When players die, their health and food level decrease by half
